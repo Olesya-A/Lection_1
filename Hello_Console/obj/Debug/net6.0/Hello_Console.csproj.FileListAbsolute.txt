@@ -1,0 +1,15 @@
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\bin\Debug\net6.0\Hello_Console.exe
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\bin\Debug\net6.0\Hello_Console.deps.json
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\bin\Debug\net6.0\Hello_Console.runtimeconfig.json
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\bin\Debug\net6.0\Hello_Console.dll
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\bin\Debug\net6.0\Hello_Console.pdb
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.csproj.AssemblyReference.cache
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.AssemblyInfoInputs.cache
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.AssemblyInfo.cs
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.csproj.CoreCompileInputs.cache
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.dll
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\refint\Hello_Console.dll
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.pdb
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\Hello_Console.genruntimeconfig.cache
+D:\ОЛЕСЯ\GeekBrains\C Sharp\Lection_1\Hello_Console\obj\Debug\net6.0\ref\Hello_Console.dll
